@@ -27,16 +27,16 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 15.02 seconds
 ```
 ## 2. Enumerating website at Port 1337
-##### :1337/index
+#### :1337/index
 Firstly we find ourselves with a login portal. The first thing coming right off the bat is trying the typical default creds, as nothing has been leaked from the initial scan `admin:admin`
 Once we are in we are led towards the folder `/data`. We are also provided with a suspicious string, `#chaoseverywhere`. We take a note of it and save it for later.
-##### :1337/data
+#### :1337/data
 We see a file named `creds.txt.gpg`. It's time for us to grab the file. We can either use wget or curl, I prefer wget myself: `wget http://admin:admin@192.168.1.229:1337/data/creds.txt.gpg`
 ## 3. Decrypting the file
 Given a txt.gpg file, we assume it's a plain text file encrypted with gpg. After a quick `man gpg` research, we learn we can decrypt it easily using -d: `gpg -d creds.txt.gpg`
 This is the time to try the suspicious string we found earlier, the password to decrypt the file is `chaoseverywhere`
 Now we have the creds for Port 22: `bob:pwn4abl3p4ssw0rd7331`
-## 4. Privileges Escalation:
+## 4. Privilege Escalation:
 We connect to port 22 using ssh and the creds we found in the earlier step.
 After some minutes enumerating and finding nothing, it's time we tried to escalate privileges. If we do `sudo -l` we see we can run `/usr/bin/env` as root.
 If we check the manpage of `env`, we see we can parse commands using -S, so we go ahead and try 
