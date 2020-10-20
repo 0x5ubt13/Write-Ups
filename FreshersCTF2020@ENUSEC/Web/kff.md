@@ -21,13 +21,17 @@ However, if we try with symbols, they also rotate, therefore we are talking abou
 
 ![2](../images/kff_2.png)
 
-We can use [Cyberchef](https://gchq.github.io/CyberChef/)'s ROT47 tool to play around with the ciphertext until we decrypt it
+We can use [Cyberchef](https://gchq.github.io/CyberChef/)'s ROT47 tool to play around with the ciphertext until we decrypt it:
 
-![3](../images/kff_3.png)
+![3](../images/kff_6.png)
+
+We find the ciphertext being decrypted as ROT1 but what we actually need is the oposite to correctly encrypt our payload:
+
+![4](../images/kff_7.png)
 
 We finally discover the encryption is ROT-1 (ROT47(-48)). Let's try to get some XSS working!
 
-![4](../images/kff_4.png)
+![5](../images/kff_4.png)
 
 ```;rbqhos=`kdqs'!Gdkkn}Vnqkc~!(;.rbqhos=``` equals ```alert("Hello World!")```
 
@@ -40,6 +44,6 @@ Now that we finally have our PoC working, we need to send the payload to the adm
 
 
 
-![5](../images/kff_5.png)
+![6](../images/kff_5.png)
 
 [Go back to Web challenges](./)
