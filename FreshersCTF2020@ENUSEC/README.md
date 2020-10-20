@@ -11,7 +11,7 @@ There have been 8 categories for this CTF:
 * Pwn
 * OSINT
 * Misc
-* [Marios WebApp Playground](/Mario_WebApp_Playground)
+* [Marios WebApp Playground](./Mario_WebApp_Playground)
 
 ## Scoreboard
 
