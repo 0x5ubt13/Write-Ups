@@ -1,4 +1,4 @@
-# Freshers 2020
+# Freshers CTF 2020 
 
 Welcome to my write-up on the first CTF I've participated thoroughly.
 
