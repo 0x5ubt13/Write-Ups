@@ -10,3 +10,6 @@ We are provided with 6 funny beginner-level challenges to get our hands dirty us
 * [Challenge 4](./challenge4.md)
 * [Challenge 5](./challenge5.md)
 * [Challenge 6](./challenge6.md)
+
+
+[Go back to the categories](../)
