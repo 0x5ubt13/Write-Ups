@@ -1,18 +1,18 @@
 # Freshers CTF 2020 
 
-Welcome to my write-up on the first CTF I've participated thoroughly.
+Welcome to my write-up on the first CTF I've participated thoroughly, intended for students to get their hands dirty with some funny challenges.
 
 ## Categories
 
 There have been 8 categories for this CTF:
 
-* Web
-* Rev
-* Boot 2 Root
-* Crypto
-* Pwn
-* OSINT
-* Misc
+* [Web](./Web)
+* [Rev](./Rev)
+* [Boot 2 Root](./Boot2Root)
+* [Crypto](./Crypto)
+* [Pwn](./Pwn)
+* [OSINT](./OSINT)
+* [Misc](./Misc)
 * [Marios WebApp Playground](./Mario_WebApp_Playground)
 
 The CTF's overall atmosphere was really positive and the infrastructure was excellent. I personally enjoyed the OSINT and the Pwn challenges the most, but all the rest  categories were also fun to try and complete the challenges and learn from them.
