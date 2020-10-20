@@ -12,3 +12,7 @@ There have been 8 categories for this CTF:
 * OSINT
 * Misc
 * Marios WebApp Playground
+
+## Scoreboard
+
+![Scoreboard](images/final_scoreboard.png)
