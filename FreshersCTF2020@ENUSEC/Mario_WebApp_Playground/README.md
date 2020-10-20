@@ -1,3 +1,5 @@
+![prologue]../images/prologue.png
+
 # Mario's WebApp Playground
 
 We are provided with 6 funny beginner-level challenges to get our hands dirty using the devtools and Burp Suite. Let's go into them!
