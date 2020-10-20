@@ -17,7 +17,7 @@ Let's try to encode some messages. If we say `hello`, we receive `ifmmp`. It loo
 
 ![1](../images/kff_1.png)  
 
-However, if we try with symbols, they also rotate, therefore we are talking about a [ROT47](https://en.wikipedia.org/wiki/ROT13#Variants) with a combination we don't know yet.
+However, if we try with symbols, they also rotate, therefore we are talking about a variant of [ROT47](https://en.wikipedia.org/wiki/ROT13#Variants) encryption with a rotation we don't know yet.
 
 ![2](../images/kff_2.png)
 
