@@ -3,7 +3,7 @@
 
 ## Problem
 
-They tried to hid the flag again from us, but we are stubborn and we'll keep looking for it no matter what, right?
+They tried to hide the password for the flag again from us, but we are stubborn and we'll keep looking for it no matter what, right?
 
 ![1](../images/mario5.png)
 
