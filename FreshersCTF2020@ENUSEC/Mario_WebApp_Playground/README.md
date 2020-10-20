@@ -1,4 +1,4 @@
-![prologue]/images/prologue.png
+![prologue]/images/mario_prologue.png
 
 # Mario's WebApp Playground
 
