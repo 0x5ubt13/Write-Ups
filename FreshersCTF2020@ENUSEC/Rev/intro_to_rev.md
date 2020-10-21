@@ -24,7 +24,7 @@ There are 2 possible easy solutions for this challenge I can think of.
 
 Open the file in a disassembler like IDA and check the hex!!
 
-![3](../images/intro_to_rev.png
+![3](../images/intro_to_rev.png)
 
 `FCTF{you_can_still_see_me}`
 
