@@ -10,7 +10,7 @@ We were provided with 7 funny challenges to solve and learn.
 * [Smellcode](./smellcode.md)
 * [Obfshell](./obfshell.md)
 * [Netty](./netty.md)
-* [My Last Error](./my_last_error.md)
+* My Last Error (Coming soon)
 
 ---
 
