@@ -8,4 +8,4 @@ This category had only 3 challenges and 2 of them were free flags from the Prese
 
 ---
 
-[Go back to categories]
+[Go back to categories](../)
