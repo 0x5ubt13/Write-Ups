@@ -20,4 +20,4 @@ If you enjoy drone views, you'll notice something weird at 1:42
 
 `FCTF{y0utub3_1s_a_j0b}`
 
-[Go back to OSINT challenges]
+[Go back to OSINT challenges](./)
