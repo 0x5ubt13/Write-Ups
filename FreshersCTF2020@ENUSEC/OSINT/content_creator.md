@@ -5,7 +5,7 @@
 ## Problem
 
 ```
-My friend Elliot has recommended a video from my youtube channel although I have not uploaded anything.
+My friend Elliot has recommended a video from my youtube channel although I have not published anything yet.
 ```
 
 # Solution
