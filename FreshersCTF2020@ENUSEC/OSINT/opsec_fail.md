@@ -5,6 +5,7 @@
 ## Problem
 
 If we keep scrolling through Elliot A's Twitter account we spot somebody interacted with him asking where to meet. And he replied. Whoops. 
+
 ![1](../images/opsec_fail_1.png)
 
 ## Solution
