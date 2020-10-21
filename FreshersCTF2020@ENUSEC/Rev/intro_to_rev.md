@@ -26,6 +26,8 @@ Open the file in a disassembler like IDA and check the hex!!
 
 ![3](../images/intro_to_rev.png
 
+`FCTF{you_can_still_see_me}`
+
 Go back to [Rev](./)
 
 
