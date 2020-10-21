@@ -4,6 +4,8 @@
 
 We are provided with 6 funny beginner-level challenges to get our hands dirty using the devtools and Burp Suite. Let's go into them!
 
+---
+
 * [Challenge 1](./challenge1.md)
 * [Challenge 2](./challenge2.md)
 * [Challenge 3](./challenge3.md)
@@ -11,5 +13,6 @@ We are provided with 6 funny beginner-level challenges to get our hands dirty us
 * [Challenge 5](./challenge5.md)
 * [Challenge 6](./challenge6.md)
 
+---
 
 [Go back to the categories](../)
