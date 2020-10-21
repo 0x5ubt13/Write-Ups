@@ -16,7 +16,7 @@ Immediately after I saw the 3 `///` and that sequence of 3 random words separate
 
 The only thing we need to do is going to their website and searching those 3 words we found. The [] marks the location of the treasure.
 
-![2](../images/opsec_fail__2.png)
+![2](../images/opsec_fail_2.png)
 
 `FCTF{Demo's Wonder Wheel Amusement Park}`
 
