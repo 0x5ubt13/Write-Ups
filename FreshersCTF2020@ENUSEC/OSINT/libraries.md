@@ -18,7 +18,7 @@ Let's then investigate about what we already have:
 
 ![2](../images/libraries_2.png)
 
-2) This reference to Hackers (the legendary movie (from which the author of the callenge also took "Real life Zero-cool's name (thank you, SecComet))), made me revisit SecComet's profile since I saw something similar:
+2) This reference to Hackers (the legendary movie (from which the author of the callenge also took "Real life" Zero-cool's name (thank you, SecComet))), made me revisit SecComet's profile since I saw something similar:
 
 
 ![3](../images/libraries_3.png)
