@@ -56,7 +56,7 @@ So far we have:
 6) No clue on what to do with all this.
 
 
-Fortunately the author released a hint that said `"Library of Babel"`, from the universe of the book of Jorge Luis Borges, where the whole world is a gigantic library made out of hexagons, 2 walls are for connecting with other hexagons and the other 4 are divided in 5 shelves, with 32 volumes in each shelf, where all the knowledge of the world exists in books made out of 25 characters. Apparently that universe exists today on the internet on the page `https://libraryofbabel.info`, amazing! Now we can use all the info we previously gathered and get our flag:
+Fortunately the author released a hint that said `"Library of Babel"`, referencing the universe of the book from Jorge Luis Borges, where the whole world is a gigantic library made out of hexagons, 2 walls are for connecting with other hexagons and the other 4 are divided in 5 shelves, with 32 volumes in each shelf, where all the knowledge of the world exists in books made out of 25 characters. Apparently that universe exists today on the internet on the page `https://libraryofbabel.info`, amazing! Now we can use all the info we previously gathered and get our flag:
 
 ![7](../images/libraries_7.png)
 ![8](../images/libraries_8.png)
