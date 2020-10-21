@@ -8,9 +8,9 @@ There have been 8 categories for this CTF:
 
 * [Web](./Web)
 * [Rev](./Rev)
-* [Boot 2 Root](./Boot2Root)
-* [Crypto](./Crypto)
-* [Pwn](./Pwn)
+* [Boot 2 Root](./Boot2Root) (Soon)
+* [Crypto](./Crypto) (Soon)
+* [Pwn](./Pwn) (Soon)
 * [OSINT](./OSINT)
 * [Misc](./Misc)
 * [Marios WebApp Playground](./Mario_WebApp_Playground)
