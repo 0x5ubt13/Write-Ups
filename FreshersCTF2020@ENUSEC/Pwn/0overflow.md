@@ -24,7 +24,7 @@ First thing we must do is finding the offset.
 
 We see it's indeed possible and therefore we must find the exact point at where we can overflow the stack and overwrite to the pointer. For that, we can use a cyclic pattern using `pwntools`:
 
-With `pwn.cyclic_gen().get()` we can create a "de Brujin sequence" to easily find the offset. If we copy/paste the pattern into the running program and check where is the EIP pointing at, we can get back to the python terminal and put the address into a find method to discover how long is the offset. For this instance, see the image below: 
+With `pwn.cyclic_gen().get()` we can create a [De Brujin sequence](https://en.wikipedia.org/wiki/De_Bruijn_sequence) to easily find the offset. If we copy/paste the pattern into the running program and check where is the EIP pointing at, we can get back to the python terminal and put the address into a find method to discover how long is the offset. For this instance, see the image below: 
 
 ![3](../images/0overflow_3.png)
 
