@@ -8,7 +8,7 @@ There have been 8 categories for this CTF:
 
 * [Web](./Web)
 * [Rev](./Rev)
-* Boot 2 Root (Coming soon)
+* Boot 2 Root
 * [Crypto](./Crypto)
 * [Pwn](./Pwn)
 * [OSINT](./OSINT)
