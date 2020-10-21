@@ -28,3 +28,5 @@ Great, we have the hint that the file containing the flag is hidden somewhere. W
 
 
 ![5](../images/private_terminal_5.png)
+
+Go back to [Categories](../)
