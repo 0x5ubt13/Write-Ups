@@ -18,6 +18,9 @@ From the instructions we can observe what looks like an obfuscated flag laying a
 
 ![3](../images/netty_3.png)
 
+`FCTF{wh4t_4_cut3_d0g}`
+
+
 
 Go back to [Rev](./)
  
