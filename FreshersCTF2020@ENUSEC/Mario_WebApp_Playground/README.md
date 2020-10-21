@@ -15,4 +15,4 @@ We are provided with 6 funny beginner-level challenges to get our hands dirty us
 
 ---
 
-[Go back to the categories](../)
+Go back to [Categories](../)
