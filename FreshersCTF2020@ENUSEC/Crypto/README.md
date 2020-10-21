@@ -5,7 +5,7 @@ There were 7 challenges in this category, 2 of them were very easy and everybody
 ---
 
 * [Ex-ord](./ex-ord.md)
-* [HashIt]
+* HashIt
 * [RSA Warmup](./rsa_warmup.md)
 
 ---
