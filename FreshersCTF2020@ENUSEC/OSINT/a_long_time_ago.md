@@ -15,6 +15,9 @@ What is uploaded to the internet...
 If we follow the clue of the last challenge and investigate the recently found Twitter of Elliot A. we spot a deleted tweet.
 
 ![1](../images/a_long_time_ago_1.png)
+
+In English it says `This tweet is no longer available`:
+
 ![2](../images/a_long_time_ago_2.png)
 
 There is a marvelous tool available for us called [The Wayback Machine](https://web.archive.org/) which is an archive of the whole internet that you can consult whenever you want to go back in the past.
