@@ -10,7 +10,7 @@ There have been 8 categories for this CTF:
 * [Rev](./Rev)
 * [Boot 2 Root](./Boot2Root) (Soon)
 * [Crypto](./Crypto) (Soon)
-* [Pwn](./Pwn) (Soon)
+* [Pwn](./Pwn)
 * [OSINT](./OSINT)
 * [Misc](./Misc)
 * [Marios WebApp Playground](./Mario_WebApp_Playground)
